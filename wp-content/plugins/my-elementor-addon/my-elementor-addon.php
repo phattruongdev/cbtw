@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: My Elementor Addon (Fixed v4)
+ * Plugin Name: My Elementor Addon
  * Description: Custom Elementor widget "Product Gallery (DummyJSON)" + Single Product route. Fixed loading + mobile-first CSS + adjustable desktop columns + redesigned single product page.
  * Version: 1.1.0
  * Author: Interview Task
